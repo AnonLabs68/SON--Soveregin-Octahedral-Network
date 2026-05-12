@@ -92,10 +92,6 @@ Sovereign uses cloud AI only where it helps the demo today. The longer-term arch
 ```text
 native_core/        Native C++ OpenGL terminal, Oracle/Cortex, SON/HexaField experiments
 Quantum/            C++ Quantum browser and assistant surface
-sovereign-blink-main/ Solana blink/web integration work
-modules/            Supporting protocol/runtime modules
-reports/            Generated reports and technical notes
-plans/              Planning artifacts
 *.md                Submission docs, whitepaper, scripts, and judge notes
 ```
 
