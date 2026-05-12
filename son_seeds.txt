@@ -1,0 +1,11 @@
+# SON Seed Nodes — one entry per line: IP:PORT
+# Add real node IPs here when you have live machines running --son-node
+# Example:
+# 203.0.113.10:27890
+# 198.51.100.22:27890
+#
+# Local dev / loopback test nodes (uncomment to use):
+# 127.0.0.1:27891
+# 127.0.0.1:27892
+# <YOUR_NEW_GCP_IP>:28000
+34.93.204.145:28001
