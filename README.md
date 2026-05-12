@@ -133,9 +133,6 @@ Keys are runtime configuration only. Do not commit secrets, wallet keypairs, bro
 - `SOVEREIGN_OCTAHEDRAL_NETWORK_WHITEPAPER_FINAL.md`
 - `JUDGE_TECHNICAL_BRIEF.md`
 - `SUBMISSION_NAME_AND_NARRATIVE.md`
-- `DEMO_VIDEO_SCRIPT_FINAL.md`
-- `DEMO_RECORDING_GUIDE.md`
-- `LOW_END_RECORDING_SURVIVAL_GUIDE.md`
 - `GITHUB_PACKAGE_README.md`
 
 ## Current Status
