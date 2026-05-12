@@ -5,6 +5,7 @@
 Sovereign is an AnonLabs hackathon build for Solana retail traders who want the speed and cohesion of an institutional workstation without living inside fragmented web dashboards. The app combines a native OpenGL trading terminal, Sovereign Oracle/Cortex market intelligence, Quantum agentic browser research, a wallet/node passport concept, and SON, a peer-assisted network layer for sharing observed market state.
 
 Website: https://sovereignoctahedral.online/
+Full video: https://www.youtube.com/watch?v=BX_QbiYKN4M
 
 ## What It Is
 
